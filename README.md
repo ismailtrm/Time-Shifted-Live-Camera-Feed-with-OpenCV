@@ -1,7 +1,6 @@
 # Time-Shifted Live Camera Feed
 This script captures video from your webcam and applies a time shift effect by delaying the display of frames.
 
-# Code
 ```
 import cv2
 import collections
