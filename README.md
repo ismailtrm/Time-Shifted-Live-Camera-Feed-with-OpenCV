@@ -74,8 +74,13 @@ cv2.destroyAllWindows()
 ```
 Clean Up: Releases the camera and closes all OpenCV windows after the loop exits.
 How It Works
+
 Initialization: Starts the camera and initializes the frame buffer.
+
 Frame Capture: Continuously captures frames from the camera.
+
 Buffer Management: Stores frames in a buffer to create a delay effect.
+
 Display: Shows the delayed frame when the buffer is full, otherwise shows the current frame.
+
 Exit: Closes the camera and windows when 'q' is pressed.
