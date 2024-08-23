@@ -1,7 +1,3 @@
-# Camera Feed Processing with OpenCV | Time Shifting
-
-This repository contains Python scripts that demonstrate different camera feed processing techniques using OpenCV. 
-
 ## Time-Shifted Live Camera Feed
 
 This script captures video from your webcam and applies a time shift effect by delaying the display of frames.
